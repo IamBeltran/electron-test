@@ -18,6 +18,12 @@
     "es2021": true,
     "node":true
   },
+  "settings": {
+    "import/core-modules": [
+      "electron",
+      "electron-reload"
+    ]
+  },
   "rules": {
     "prettier/prettier": "error",
     "jsdoc/check-access": 1,
