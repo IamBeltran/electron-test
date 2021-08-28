@@ -1,0 +1,50 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "private": "false",
+  "description": "For Electronjs tests",
+  "keywords": [
+    "test",
+    "testing",
+    "electron",
+    "application",
+    "app",
+    "javascript",
+    "settings",
+    "cross-platform",
+    "desktop",
+    "apps"
+  ],
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "homepage": "https://github.com/IamBeltran/tochtli#readme",
+  "bugs": {
+    "url": "https://github.com/IamBeltran/tochtli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamBeltran/tochtli.git"
+  },
+  "author": {
+    "name": "Victor Giovanni Beltrán Rodríguez",
+    "email": "beltran-victor@outlook.com",
+    "url": "https://vgbr-dev.blogspot.com"
+  },
+  "contributors": [
+    {
+      "name": "Victor Giovanni Beltrán Rodriguez",
+      "email": "beltran-victor@outlook.com",
+      "url": "https://vgbr-dev.blogspot.com"
+    }
+  ],
+  "license": "MIT",
+  "main": "main/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
