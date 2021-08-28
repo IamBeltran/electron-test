@@ -20,13 +20,13 @@
     "lib": "lib",
     "test": "test"
   },
-  "homepage": "https://github.com/IamBeltran/tochtli#readme",
+  "homepage": "https://github.com/IamBeltran/electron-test#readme",
   "bugs": {
-    "url": "https://github.com/IamBeltran/tochtli/issues"
+    "url": "https://github.com/IamBeltran/electron-test/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IamBeltran/tochtli.git"
+    "url": "git+https://github.com/IamBeltran/electron-test.git"
   },
   "author": {
     "name": "Victor Giovanni Beltrán Rodríguez",
