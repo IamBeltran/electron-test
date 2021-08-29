@@ -122,10 +122,10 @@ build.*.js
 # backup directory
 backup/
 
-.gitkeep
+# .gitkeep
 
 # Matches the file ./developing.js
 /developing.js
 
 # ━━  THIS PROJECT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-/storage
+/assets
